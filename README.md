@@ -1,4 +1,4 @@
-<h2 align="center">𝙃𝙀𝙇𝙇𝙊, 𝙄'𝙈 Swapnil 👋</h2>
+<h2 align="center">𝙃𝙀𝙇𝙇𝙊, 𝙄'𝙈 Vaibhav 👋</h2>
 <p align="center">
   <a href="https://Swapnil-2503.github.io">𝚆𝚎𝚋𝚜𝚒𝚝𝚎</a> •
   <a href="https://www.linkedin.com/in/swapnil-jadhav03">𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗</a> •
@@ -19,11 +19,9 @@
  
 ### 📊 GitHub Stats:
 
-  [![Swapnil-2503's GitHub | Stats](https://stats.quine.sh/Swapnil-2503/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Swapnil-2503)
+[![Vaibhav0216's GitHub | Stats](https://stats.quine.sh/Vaibhav0216/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Vaibhav0216)
 
-
- [![Swapnil-2503's GitHub Languages Over Time](https://stats.quine.sh/Swapnil-2503/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Swapnil-2503)
-
+[![Vaibhav0216's GitHub | Languages Over Time](https://stats.quine.sh/Vaibhav0216/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Vaibhav0216)
  
  
 - #### 👨‍💻Coding Profiles:
